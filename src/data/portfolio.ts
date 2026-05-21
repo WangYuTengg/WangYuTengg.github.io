@@ -94,12 +94,12 @@ export const projects: Project[] = [
     period: "2025 - 2026",
   },
   {
-    slug: "stackedhomes",
-    title: "StackedHomes AI Outreach",
+    slug: "real-estate-outreach",
+    title: "Real Estate AI Outreach",
     description:
       "WhatsApp outreach and lead qualification for real estate. Real-time chat sandbox, bulk simulation, AI training dashboard with prompt diff views.",
     tags: ["TypeScript", "React", "Hono", "WhatsApp API", "OpenAI", "Mastra"],
-    image: "/projects/stackedhomes.jpg",
+    image: "/projects/real-estate-outreach.jpg",
     category: "work",
     context: "Voltade (Client Project)",
     period: "2026",
