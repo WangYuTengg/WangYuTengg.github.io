@@ -180,8 +180,9 @@ export const education = {
   school: "Nanyang Technological University, Singapore",
   degree: "Bachelor of Science (Computer Science) & Bachelor of Social Science (Economics)",
   period: "Aug 2021 - Jun 2026",
-  gpa: "4.5/5.00",
-  honours: "Expected Double Honours (Highest Distinction)",
+  gpaCs: "4.55/5.00",
+  gpaEcon: "4.52/5.00",
+  honours: "Double Honours (Highest Distinction)",
   awards: [
     "NTU College Scholarship",
     "MLDA Deep Learning Week 2022 Hackathon Winner (Best Software Application)",
@@ -203,5 +204,5 @@ export const skills = {
 export const aboutText = [
   "I'm a full-stack software engineer on the founding team at Voltade, where I build production AI systems for enterprise clients. From supplier intelligence platforms and WhatsApp-integrated chatbots to OCR invoice processing and workforce planning AI pipelines.",
   "I work primarily with TypeScript across the stack: React on the frontend, Hono on the backend, PostgreSQL with Drizzle ORM for data, and OpenAI/Anthropic for AI capabilities. I've shipped production systems processing thousands of invoices and powering AI-driven workflows for 30+ companies.",
-  "I'm currently completing my double degree in Computer Science and Economics at NTU Singapore (CGPA 4.5/5.0), where my final year project is an AI-assisted assessment platform with LLM-powered grading.",
+  "I graduated from NTU Singapore with a double degree in Computer Science and Economics, both with Honours (Highest Distinction) (GPA 4.55 and 4.52/5.00). My final year project was an AI-assisted assessment platform with LLM-powered grading.",
 ];

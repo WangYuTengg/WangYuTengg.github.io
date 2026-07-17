@@ -25,12 +25,16 @@ export function About() {
               and building things that actually get used.
             </p>
             <p className="text-zinc-600 dark:text-zinc-400">
-              Currently finishing my double degree in{" "}
+              Graduated from{" "}
+              <span className="font-medium text-foreground">NTU Singapore</span> with a
+              double degree in{" "}
               <span className="font-medium text-foreground">Computer Science</span> and{" "}
-              <span className="font-medium text-foreground">Economics</span> at{" "}
-              <span className="font-medium text-foreground">NTU Singapore</span>{" "}
-              (CGPA 4.5/5.0). When I&apos;m not coding, I&apos;m probably playing CS2,
-              at the gym or hunting for good food.
+              <span className="font-medium text-foreground">Economics</span>, both with{" "}
+              <span className="font-medium text-foreground">
+                Honours (Highest Distinction)
+              </span>{" "}
+              (GPA 4.55 and 4.52/5.00). When I&apos;m not coding, I&apos;m probably
+              playing CS2, at the gym or hunting for good food.
             </p>
           </div>
           <div className="flex shrink-0 justify-center md:justify-end">

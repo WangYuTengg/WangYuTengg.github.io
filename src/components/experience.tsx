@@ -53,7 +53,8 @@ export function Experience() {
             {education.degree}
           </p>
           <p className="mb-4 text-[15px] text-zinc-600 dark:text-zinc-400">
-            {education.honours} &middot; CGPA: {education.gpa}
+            {education.honours} &middot; Computer Science GPA: {education.gpaCs}{" "}
+            &middot; Economics GPA: {education.gpaEcon}
           </p>
           <div className="flex flex-wrap gap-2">
             {education.awards.map((award) => (
